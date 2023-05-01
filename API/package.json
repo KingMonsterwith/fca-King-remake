@@ -21,7 +21,7 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "node-datetime": "^2.1.2",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^6.9.1",
     "randomstring": "^1.1.5"
   },
   "engines": {

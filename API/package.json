@@ -22,7 +22,7 @@
     "mysql2": "^2.3.3",
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.4.17",
-    "randomstring": "^1.1.5"
+    "randomstring": "^1.2.3"
   },
   "engines": {
     "node": "12.18.2"

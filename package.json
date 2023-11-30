@@ -38,7 +38,7 @@
     "ngx-pagination": "^5.0.0",
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.4.11",
-    "nodemailer-express-handlebars": "^4.0.0",
+    "nodemailer-express-handlebars": "^6.1.0",
     "randomstring": "^1.1.5",
     "rxjs": "~6.5.5",
     "scss": "^0.2.4",

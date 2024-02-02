@@ -37,7 +37,7 @@
     "ng2-search-filter": "^0.5.1",
     "ngx-pagination": "^5.0.0",
     "node-datetime": "^2.1.2",
-    "nodemailer": "^6.4.11",
+    "nodemailer": "^6.9.9",
     "nodemailer-express-handlebars": "^4.0.0",
     "randomstring": "^1.1.5",
     "rxjs": "~6.5.5",
